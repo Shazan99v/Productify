@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("./assets/fonts/Lora/Lora-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Lora", serif;
+}
