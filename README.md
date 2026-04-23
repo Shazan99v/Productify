@@ -95,7 +95,7 @@ EMAIL_PASS=your_email_password
 
 ## 🎥 Demo Video
 ```bash
-link
+  https://youtu.be/M16tct_8xYI
 ```
 
 ## 🌐 Live Demo
