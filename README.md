@@ -67,3 +67,13 @@ Productify is a full-stack PERN (PostgreSQL, Express, React, Node.js) marketplac
 git clone https://github.com/your-username/productify.git
 cd productify
 
+## Backend Setup
+cd server
+npm install
+npm start
+
+## Frontend Setup
+cd client
+npm install
+npm start
+
