@@ -77,3 +77,9 @@ cd client
 npm install
 npm start
 
+## Environment Variables (.env)
+DATABASE_URL=your_postgres_url
+JWT_SECRET=your_secret
+EMAIL_USER=your_email
+EMAIL_PASS=your_email_password
+
