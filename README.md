@@ -66,21 +66,49 @@ Productify is a full-stack PERN (PostgreSQL, Express, React, Node.js) marketplac
 ```bash
 git clone https://github.com/your-username/productify.git
 cd productify
+```
 
 ## Backend Setup
+```bash
 cd server
 npm install
 npm start
+```
 
 ## Frontend Setup
+```bash
 cd client
 npm install
 npm start
+```
 
 ## Environment Variables (.env)
+```bash
 DATABASE_URL=your_postgres_url
 JWT_SECRET=your_secret
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
+
+```
+
+---
+
+## 🎥 Demo Video
+```bash
+link
+```
+
+## 🌐 Live Demo
+```bash
+link
+```
+
+# 👨‍💻 Author
+## Shazan Gull
+```bash
+GitHub: https://github.com/Shazan99v
+Portfolio: https://shazangull.netlify.app/
+```
+
 
 ---
